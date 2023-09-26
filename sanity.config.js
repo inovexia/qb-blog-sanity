@@ -5,8 +5,7 @@ import {schemaTypes} from './schemas'
 
 export default defineConfig({
   name: 'default',
-  title: 'qb-sanity',
-
+  title: 'QB-Sanity',
   projectId: 'g9y95xua',
   dataset: 'production',
 
